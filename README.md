@@ -55,6 +55,3 @@ That way you can detach from the console by pressing Control+A followed by D. Yo
 screen -r thetick
 ```
 
-The Tick has been referenced in the following 44Con presentation by Daniel Romero and Mario Rivas:
-
-[![](http://img.youtube.com/vi/plu7U0Sq9HQ/0.jpg)](http://www.youtube.com/watch?v=plu7U0Sq9HQ "Office Equipment: The Front Door To Persistence On Enterprise Networks - D. Romero and M. Rivas")
